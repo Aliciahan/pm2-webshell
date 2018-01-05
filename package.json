@@ -12,9 +12,9 @@
   },
   "config": {
     "port": "8080",
-    "username": "foo",
-    "password": "bar",
-    "https": "false",
+    "username": "admin",
+    "password": "admin",
+    "https": "true",
     "bind": "0.0.0.0",
     "ssl_key" : "./term-default.key",
     "ssl_cert" : "./term-default.crt"
