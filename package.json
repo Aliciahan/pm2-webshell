@@ -14,7 +14,7 @@
     "port": "8080",
     "username": "admin",
     "password": "admin",
-    "https": "true",
+    "https": "false",
     "bind": "0.0.0.0",
     "ssl_key" : "./term-default.key",
     "ssl_cert" : "./term-default.crt"
